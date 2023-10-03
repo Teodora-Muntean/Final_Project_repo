@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-16T18:42:00 EEST" name="Command line suite" finished-at="2023-09-16T18:42:00 EEST" duration-ms="45">
+  <suite started-at="2023-09-17T22:42:30 EEST" name="Command line suite" finished-at="2023-09-17T22:42:30 EEST" duration-ms="49">
     <groups>
     </groups>
-    <test started-at="2023-09-16T18:42:00 EEST" name="Command line test" finished-at="2023-09-16T18:42:00 EEST" duration-ms="45">
+    <test started-at="2023-09-17T22:42:30 EEST" name="Command line test" finished-at="2023-09-17T22:42:30 EEST" duration-ms="49">
       <class name="com.itfactory.model.TriangleTest">
-        <test-method signature="testCalculatePerimeter()[pri:0, instance:com.itfactory.model.TriangleTest@442675e1]" started-at="2023-09-16T18:42:00 EEST" name="testCalculatePerimeter" finished-at="2023-09-16T18:42:00 EEST" duration-ms="0" status="PASS">
+        <test-method signature="testCalculatePerimeter()[pri:0, instance:com.itfactory.model.TriangleTest@442675e1]" started-at="2023-09-17T22:42:30 EEST" name="testCalculatePerimeter" finished-at="2023-09-17T22:42:30 EEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCalculatePerimeter -->
       </class> <!-- com.itfactory.model.TriangleTest -->
       <class name="com.itfactory.model.RectangleTest">
-        <test-method signature="testCalculatePerimeter()[pri:0, instance:com.itfactory.model.RectangleTest@453da22c]" started-at="2023-09-16T18:42:00 EEST" name="testCalculatePerimeter" finished-at="2023-09-16T18:42:00 EEST" duration-ms="1" status="PASS">
+        <test-method signature="testCalculatePerimeter()[pri:0, instance:com.itfactory.model.RectangleTest@453da22c]" started-at="2023-09-17T22:42:30 EEST" name="testCalculatePerimeter" finished-at="2023-09-17T22:42:30 EEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCalculatePerimeter -->
       </class> <!-- com.itfactory.model.RectangleTest -->
       <class name="com.itfactory.model.CircleTest">
-        <test-method signature="testCalculatePerimeter()[pri:0, instance:com.itfactory.model.CircleTest@21a947fe]" started-at="2023-09-16T18:42:00 EEST" name="testCalculatePerimeter" finished-at="2023-09-16T18:42:00 EEST" duration-ms="6" status="PASS">
+        <test-method signature="testCalculatePerimeter()[pri:0, instance:com.itfactory.model.CircleTest@21a947fe]" started-at="2023-09-17T22:42:30 EEST" name="testCalculatePerimeter" finished-at="2023-09-17T22:42:30 EEST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCalculatePerimeter -->
       </class> <!-- com.itfactory.model.CircleTest -->
       <class name="com.itfactory.model.SquareTest">
-        <test-method signature="testCalculatePerimeter()[pri:0, instance:com.itfactory.model.SquareTest@71248c21]" started-at="2023-09-16T18:42:00 EEST" name="testCalculatePerimeter" finished-at="2023-09-16T18:42:00 EEST" duration-ms="1" status="PASS">
+        <test-method signature="testCalculatePerimeter()[pri:0, instance:com.itfactory.model.SquareTest@71248c21]" started-at="2023-09-17T22:42:30 EEST" name="testCalculatePerimeter" finished-at="2023-09-17T22:42:30 EEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCalculatePerimeter -->
