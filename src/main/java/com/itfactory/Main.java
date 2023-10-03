@@ -45,6 +45,5 @@ public class Main {
             default:
                 System.out.print("Optiunea introdusa de catre dumneavoastra nu este valida.");
         }
-
     }
 }

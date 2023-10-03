@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="TestSuite" time="0.012" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="TestSuite" time="0.013" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -47,7 +47,7 @@
     <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds.license"/>
     <property name="java.vm.specification.version" value="20"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.3.2 test"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.3.2 install"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-20"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -65,8 +65,8 @@
     <property name="sun.stdout.encoding" value="UTF-8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.itfactory.model.CircleTest" name="testCalculatePerimeter" time="0.007"/>
+  <testcase classname="com.itfactory.model.CircleTest" name="testCalculatePerimeter" time="0.009"/>
   <testcase classname="com.itfactory.model.RectangleTest" name="testCalculatePerimeter" time="0.001"/>
   <testcase classname="com.itfactory.model.SquareTest" name="testCalculatePerimeter" time="0.002"/>
-  <testcase classname="com.itfactory.model.TriangleTest" name="testCalculatePerimeter" time="0.002"/>
+  <testcase classname="com.itfactory.model.TriangleTest" name="testCalculatePerimeter" time="0.001"/>
 </testsuite>
